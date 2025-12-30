@@ -1,0 +1,18 @@
+https://github.com/swapnil12348/StudentDropoutPrediction?utm_source=chatgpt.com
+
+1. Dashboard + Prediction + Alerts (Partially Ready)
+StudentDropoutPrediction – Streamlit Dashboard
+
+https://github.com/swapnil12348/StudentDropoutPrediction
+
+Covers:
+
+Predict dropout risk
+
+Full graphical dashboard (EDA, charts, SHAP graphs)
+
+Streamlit interactive UI
+
+Missing:
+
+Alarm system (but easy to add a function that triggers alert when risk > threshold)
